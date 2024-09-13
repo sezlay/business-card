@@ -2,6 +2,8 @@
 
 This project is a simple and responsive business card webpage created using HTML and CSS. The card showcases a personal profile, including a profile image, name, job title, and location, all styled to look like a professional business card.
 
+https://startling-cajeta-7954ba.netlify.app
+
 ## Project Overview
 
 - **Author:** Serena Park
